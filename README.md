@@ -3,9 +3,7 @@
 A real-time, peer-to-peer (P2P) video chat application built with WebRTC, React, and TypeScript. This project demonstrates the implementation of direct, secure, and serverless video/audio communication between browsers, all wrapped in a minimalist "glassmorphism" UI.
 
 ## 📸 Screenshots
-![Portal Lobby Screenshot]
-
-![Portal Active Call Screenshot]
+[![Portal Lobby Screenshot](https://github.com/ZeroDayEntity/portal-webrtc-chat/blob/main/screenshots/Screenshot%20(26403).png?raw=true)
 
 ## ✨ Key Features
 Peer-to-Peer Connection: Video and audio streams are sent directly between users using WebRTC, ensuring low latency and high privacy.
