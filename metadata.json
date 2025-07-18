@@ -1,0 +1,8 @@
+{
+  "name": "Portal P2P Video Chat",
+  "description": "A peer-to-peer video chat application using React and Vite.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
